@@ -1,4 +1,5 @@
-## Scotch Angular Component Router Tutorial Demo
+## Source code copied from Scotch Angular Component Router Tutorial Demo
+Thanks Scotch.
 
 This is a demo to support a Scotch article. Read the article alongside with playing with the demo for better understanding.
 
